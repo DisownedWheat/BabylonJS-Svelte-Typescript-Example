@@ -4,7 +4,7 @@
 
 This is a simple example of integrating [BabylonJS](babylonjs.com) with [Svelte](svelte.dev). It is based on the Svelte template https://github.com/sveltejs/template.
 
-The only change between the Javascript example is that the Rollup TypeScript plugin has been added to the config. Everything else should just work the same.
+The only change between the [Javascript example](https://github.com/DisownedWheat/BabylonJS-Svelte-Example) is that the Rollup TypeScript plugin has been added to the config. Everything else should just work the same.
 
 The following is all taken from the Svelte template README:
 
